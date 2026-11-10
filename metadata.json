@@ -1,0 +1,8 @@
+{
+  "name": "Atmosphere 3D",
+  "description": "An immersive 3D real-time weather experience with dynamic procedural Three.js environments, live global forecasts, and interactive weather simulations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
